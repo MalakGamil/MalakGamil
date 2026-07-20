@@ -10,11 +10,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 
-I'm a Computer Science student specializing in Full Stack Development and AI-powered applications. I enjoy building systems that solve real problems — from distributed backends to intelligent platforms that understand textbooks.
+I'm a fresh Computer Science graduate passionate about **Backend Development** and **Full Stack Engineering**. I enjoy designing scalable systems, building clean APIs, and integrating AI into real products.
 
-- 🏆 Led AI development of **EduClip** — 1st place (faculty) & 3rd overall at CU-AI Hackathon 2025
-- 💻 Ask me about **Python, Flask, React, and NLP pipelines**
-- 🔭 Currently focused on **AI integration** and **Microservices Architecture**
+- 🏆 Built **EduClip** (AI · Backend · Frontend) — 1st place (faculty) & 3rd overall at CU-AI Hackathon 2025
+- ⚙️ Ask me about **Flask, Spring Boot, Laravel, REST APIs, and Microservices**
+- 🌐 Comfortable across the stack — React, Angular, and modern CSS frameworks
 - 🧩 200+ problems solved on Codeforces & LeetCode
 - 📫 Reach me at: **malakgamil098@gmail.com**
 
@@ -28,7 +28,7 @@ I'm a Computer Science student specializing in Full Stack Development and AI-pow
 
 - 🎓 **Degree:** Bachelor of Science in Computer Science
 - 📊 **GPA:** 3.35 / 4.0
-- 📅 **Expected Graduation:** 2026
+- 📅 **Graduated:** 2026
 
 ---
 
