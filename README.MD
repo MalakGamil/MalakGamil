@@ -88,16 +88,6 @@ I'm a fresh Computer Science graduate passionate about **Backend Development** a
 | 📚 [Learning Management System](https://github.com/MalakGamil/LMS_Project) | Backend LMS with role-based access control and unit testing | Java · Spring Boot · MySQL |
 | 🔐 [Registra](https://github.com/MalakGamil/Registra) | Secure registration platform with full-stack validation | Laravel · PHP · MySQL |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MalakGamil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakGamil&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
